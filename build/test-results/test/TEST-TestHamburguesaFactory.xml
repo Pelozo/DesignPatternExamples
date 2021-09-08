@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestHamburguesaFactory" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-08T02:05:54" hostname="GAMER" time="0.023">
+  <properties/>
+  <testcase name="test_royal_si_cebolla" classname="TestHamburguesaFactory" time="0.023"/>
+  <system-out><![CDATA[Hamburguesa(carne=VACUNO, size=GRANDE, pan=NORMAL, extras=[QUESO])
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
